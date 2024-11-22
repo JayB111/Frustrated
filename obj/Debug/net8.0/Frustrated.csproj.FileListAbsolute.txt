@@ -1,0 +1,14 @@
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.AssemblyInfoInputs.cache
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.AssemblyInfo.cs
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.csproj.CoreCompileInputs.cache
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\bin\Debug\net8.0\Frustrated.exe
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\bin\Debug\net8.0\Frustrated.deps.json
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\bin\Debug\net8.0\Frustrated.runtimeconfig.json
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\bin\Debug\net8.0\Frustrated.dll
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\bin\Debug\net8.0\Frustrated.pdb
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.dll
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\refint\Frustrated.dll
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.pdb
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\Frustrated.genruntimeconfig.cache
+C:\Users\jaylj\source\repos\Frustrated\Frustrated\obj\Debug\net8.0\ref\Frustrated.dll
